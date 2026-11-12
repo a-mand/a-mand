@@ -70,23 +70,6 @@ Planeja cursar **mestrado em Engenharia**, dando continuidade à pesquisa.
 
 </div>
 
-
-<div align="center">
-
-**Linguagens nos repositórios públicos**
-
-| Linguagem | Distribuição | % |
-|---|---|---|
-| Jupyter Notebook | `██████████████████░░` | 91.7% |
-| Python | `█░░░░░░░░░░░░░░░░░░░` | 6.2% |
-| JavaScript | `█░░░░░░░░░░░░░░░░░░░` | 1.3% |
-| CSS | `█░░░░░░░░░░░░░░░░░░░` | 0.6% |
-| HTML | `█░░░░░░░░░░░░░░░░░░░` | 0.3% |
-
-<sub>Calculado sobre os repositórios projeto_IC, IC, algoritmoGenetico e form_e_carrossel. O Jupyter Notebook pesa mais porque notebooks guardam também as saídas e gráficos.</sub>
-
-</div>
-
 **Também:** SciPy, Oracle, Talend, Scrum, estruturas de dados, Redes de Computadores, Redes Veiculares, Open RAN e Cibersegurança.
 
 ---
