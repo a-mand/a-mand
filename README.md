@@ -73,7 +73,17 @@ Planeja cursar **mestrado em Engenharia**, dando continuidade à pesquisa.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-mand&layout=compact&langs_count=8&card_width=500&hide_border=true&theme=tokyonight" alt="Linguagens mais usadas no GitHub" />
+**Linguagens nos repositórios públicos**
+
+| Linguagem | Distribuição | % |
+|---|---|---|
+| Jupyter Notebook | `██████████████████░░` | 91.7% |
+| Python | `█░░░░░░░░░░░░░░░░░░░` | 6.2% |
+| JavaScript | `█░░░░░░░░░░░░░░░░░░░` | 1.3% |
+| CSS | `█░░░░░░░░░░░░░░░░░░░` | 0.6% |
+| HTML | `█░░░░░░░░░░░░░░░░░░░` | 0.3% |
+
+<sub>Calculado sobre os repositórios projeto_IC, IC, algoritmoGenetico e form_e_carrossel. O Jupyter Notebook pesa mais porque notebooks guardam também as saídas e gráficos.</sub>
 
 </div>
 
@@ -104,11 +114,11 @@ Foco atual em **desenvolvimento back-end** e na **pesquisa do LaCIS**:
 
 ## 🌍 Idiomas
 
-| Idioma | Nível |
-|---|---|
-| Português | Nativo |
-| Inglês | Compreende, fala, lê e escreve bem | B2
-| Francês | Básico | A2
+| Idioma | Nível | Referência |
+|---|---|---|
+| Português | Nativo | — |
+| Inglês | Compreende, fala, lê e escreve bem | B2 |
+| Francês | Básico | A2 |
 
 ---
 
