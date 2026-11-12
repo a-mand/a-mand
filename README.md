@@ -1,7 +1,19 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/196.gif" height="48" align="middle" alt="Espeon" /> <img align="middle" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2200&pause=600000&color=3FB8AF&vCenter=true&width=640&height=50&lines=Sobre+mim" alt="Sobre mim" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B1055,100:5B2A86&height=200&section=header&text=Amanda%20Lopes&fontColor=F3E8FF&fontSize=38&animation=fadeIn&fontAlignY=40" alt="Amanda Lopes" />
+<table align="center">
+<tr>
+<td>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B1055,100:5B2A86&width=700&height=200&section=header&text=Amanda%20Lopes&fontColor=F3E8FF&fontSize=38&animation=fadeIn&fontAlignY=40" alt="Amanda Lopes" />
+
+</td>
+<td>
+
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/196.gif" height="110" alt="Espeon" />
+
+</td>
+</tr>
+</table>
 
 <a href="https://github.com/a-mand">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=3FB8AF&center=true&vCenter=true&width=700&lines=Aprendizado+Federado+em+cidades+inteligentes;Sistemas+distribu%C3%ADdos+e+Machine+Learning;Back-end%3A+APIs%2C+bancos+de+dados+e+arquitetura;Python+%C2%B7+PHP%2FLaravel+%C2%B7+SQL" alt="Typing SVG" />
@@ -109,7 +121,7 @@ Foco atual em **desenvolvimento back-end** e na **pesquisa do LaCIS**:
 |---|---|
 | Português | Nativo |
 | Inglês | Compreende, fala, lê e escreve bem | B2
-| Francês | Básico | A1
+| Francês | Básico | A2
 
 ---
 
