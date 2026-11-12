@@ -1,30 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Amanda%20Lopes&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Engenharia%20de%20Telecomunica%C3%A7%C3%B5es%20%C2%B7%20IA%20%C2%B7%20Back-end&descAlignY=60&descSize=16" alt="Amanda Lopes" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Amanda%20Lopes&fontColor=ffffff&fontSize=50&animation=twinkling&fontAlignY=38&desc=Engenharia%20de%20Telecomunica%C3%A7%C3%B5es%20%C2%B7%20IA%20%C2%B7%20Back-end&descAlignY=60&descSize=16" alt="Amanda Lopes" />
 
 <a href="https://github.com/a-mand">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=3FB8AF&center=true&vCenter=true&width=640&lines=Aprendizado+Federado+em+cidades+inteligentes;Sistemas+distribu%C3%ADdos+e+Machine+Learning;Back-end%3A+APIs%2C+bancos+de+dados+e+arquitetura;Python+%C2%B7+PHP%2FLaravel+%C2%B7+SQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=3FB8AF&center=true&vCenter=true&width=700&lines=Aprendizado+Federado+em+cidades+inteligentes;Sistemas+distribu%C3%ADdos+e+Machine+Learning;Back-end%3A+APIs%2C+bancos+de+dados+e+arquitetura;Python+%C2%B7+PHP%2FLaravel+%C2%B7+SQL" alt="Typing SVG" />
 </a>
 
 </div>
 
 ---
 
-## 🎓 Formação
-
-**Engenharia de Telecomunicações** · Universidade Federal do Pará (UFPA)
-
-A graduação reúne a base de redes, comunicação de dados e processamento de sinais com disciplinas de programação e algoritmos, o que sustenta tanto a pesquisa em redes inteligentes quanto o desenvolvimento de software.
-
-Áreas de interesse na graduação:
-- Redes de computadores e comunicações móveis
-- Programação (C, Python) e estruturas de dados
-- Métodos numéricos, otimização e modelagem de sistemas
-- Bancos de dados e desenvolvimento web
-
----
-
-## 🔬 Pesquisa
+<a name="Pesquisa"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2200&pause=600000&color=3FB8AF&vCenter=true&width=640&height=50&lines=Pesquisa" alt="Pesquisa" />
 
 Pesquisa no **Laboratório de Cidades Inteligentes e Sustentáveis (LaCIS)** da UFPA, como bolsista do **CNPq**.
 
@@ -32,20 +19,23 @@ O laboratório estuda tecnologias para cidades mais conectadas, eficientes e sus
 
 **Principal desafio estudado:** as redes veiculares têm mobilidade alta, conexões instáveis e dispositivos com recursos limitados. A pesquisa trata de decidir **quais veículos devem participar de cada rodada de treinamento**, para que o modelo convirja com mais rapidez e qualidade.
 
-**Temas de interesse:** Aprendizado Federado, seleção de clientes, redes veiculares (VANETs), sistemas distribuídos e Machine Learning para cidades inteligentes.
+**Temas de interesse:** Aprendizado Federado, seleção de clientes, redes veiculares (VANETs), sistemas distribuídos, segurança de modelos de Machine Learning e Machine Learning para cidades inteligentes.
 
 ---
 
-## 🧭 Planejamento acadêmico
+<a name="Planejamento%20acad%C3%AAmico"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2200&pause=600000&color=3FB8AF&vCenter=true&width=640&height=50&lines=Planejamento+acad%C3%AAmico" alt="Planejamento acadêmico" />
 
 Planeja cursar **mestrado em Engenharia**, dando continuidade à pesquisa.
 
 ---
 
-## 🚀 Projetos
+<a name="Projetos"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2200&pause=600000&color=3FB8AF&vCenter=true&width=640&height=50&lines=Projetos" alt="Projetos" />
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
+| [zetta](https://github.com/a-mand/zetta) | Protótipo de app para gestão de frotas que monitora o comportamento de motoristas para reduzir acidentes por fadiga, distração e condução agressiva. **2º lugar no Hackathon Desafio Indústria 4.0 (Hydro e UFPA, 2024)** | React Native, Expo, MySQL, MediaPipe FaceMesh, OpenCV, SciPy |
 | [projeto_IC](https://github.com/a-mand/projeto_IC) | Detecção de objetos com resposta por voz | YOLOv8, Roboflow, pyttsx3 |
 | [IC](https://github.com/a-mand/IC) | Classificação de melanoma no dataset ISIC 2018, com balanceamento de classes e ajuste de hiperparâmetros | scikit-learn, Random Forest, SVM, SMOTE, GridSearchCV |
 | [algoritmoGenetico](https://github.com/a-mand/algoritmoGenetico) | Otimização da função F6 com algoritmo genético | Python |
@@ -53,7 +43,8 @@ Planeja cursar **mestrado em Engenharia**, dando continuidade à pesquisa.
 
 ---
 
-## 🛠️ Linguagens e tecnologias
+<a name="Linguagens%20e%20tecnologias"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2200&pause=600000&color=3FB8AF&vCenter=true&width=640&height=50&lines=Linguagens+e+tecnologias" alt="Linguagens e tecnologias" />
 
 <div align="center">
 
@@ -63,21 +54,24 @@ Planeja cursar **mestrado em Engenharia**, dando continuidade à pesquisa.
 
 **Back-end e dados**
 
-<img src="https://skillicons.dev/icons?i=laravel,mysql,postgres&theme=dark" alt="Back-end e dados" />
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,mysql,postgres&theme=dark" alt="Back-end e dados" />
 
 **IA e ciência de dados**
 
-<img src="https://skillicons.dev/icons?i=pytorch,py&theme=dark" alt="IA e ciência de dados" />
+<img src="https://skillicons.dev/icons?i=pytorch,py,opencv&theme=dark" alt="IA e ciência de dados" />
 
-**Front-end e ferramentas**
+**Front-end, nuvem e ferramentas**
 
-<img src="https://skillicons.dev/icons?i=react,git,github,docker,linux,vscode&theme=dark" alt="Front-end e ferramentas" />
+<img src="https://skillicons.dev/icons?i=react,aws,git,github,docker,linux,vscode&theme=dark" alt="Front-end, nuvem e ferramentas" />
 
 </div>
 
+**Também:** SciPy, Oracle, Talend, Scrum, estruturas de dados, Redes de Computadores, Redes Veiculares, Open RAN e Cibersegurança.
+
 ---
 
-## 📚 Em estudo
+<a name="Em%20estudo"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2200&pause=600000&color=3FB8AF&vCenter=true&width=640&height=50&lines=Em+estudo" alt="Em estudo" />
 
 Foco atual em **desenvolvimento back-end** e na **pesquisa do LaCIS**:
 
@@ -90,21 +84,56 @@ Foco atual em **desenvolvimento back-end** e na **pesquisa do LaCIS**:
 
 ---
 
-## 📄 Publicações
+<a name="Cursos%20e%20certifica%C3%A7%C3%B5es"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2200&pause=600000&color=3FB8AF&vCenter=true&width=640&height=50&lines=Cursos+e+certifica%C3%A7%C3%B5es" alt="Cursos e certificações" />
 
-- **[PRINCE: seleção proativa de clientes em Aprendizado Federado para redes veiculares](https://github.com/Twinte/PRINCE---Proactive).** SBRC 2026. Código no repositório.
-- **Defendendo Modelos de Aprendizado de Máquina: Estratégias de Detecção de Anomalias Contra Ataques de Envenenamento.** ERIN 2025 (Escola Regional de Informática Norte 2). Coautoria.
+- **Desvendando o Open RAN** · CNPq · 18 h · Jun – Jul/2025
+- **AWS Academy Cloud Foundations** · Amazon Web Services · 20 h · Nov/2024 – Fev/2025
+- **Programador Full-Stack** · SENAI · 1.492 h · Abr/2022 – Fev/2023
 
 ---
 
-## 📫 Contato
+<a name="Idiomas"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2200&pause=600000&color=3FB8AF&vCenter=true&width=640&height=50&lines=Idiomas" alt="Idiomas" />
+
+| Idioma | Nível |
+|---|---|
+| Português | Nativo |
+| Inglês | Compreende, fala, lê e escreve bem |
+| Francês | Intermediário |
+| Libras | Básico |
+
+---
+
+<a name="Publica%C3%A7%C3%B5es"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2200&pause=600000&color=3FB8AF&vCenter=true&width=640&height=50&lines=Publica%C3%A7%C3%B5es" alt="Publicações" />
+
+- **[PRINCE: A Proactive Client Selection in Federated Learning for Connected and Autonomous Vehicles](https://github.com/Twinte/PRINCE---Proactive).** Anais do XLIV SBRC, 2026. Primeira autora.
+- **Defendendo Modelos de Aprendizado de Máquina: Estratégias de Detecção de Anomalias Contra Ataques de Envenenamento.** Anais da XVIII ERIN (Escola Regional de Informática Norte 2), 2025. Coautoria.
+
+---
+
+<a name="GitHub"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2200&pause=600000&color=3FB8AF&vCenter=true&width=640&height=50&lines=GitHub" alt="GitHub" />
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_AQUI_O_LINK_DO_LINKEDIN)
-[![Lattes](https://img.shields.io/badge/Lattes-003366?style=for-the-badge)](COLOQUE_AQUI_O_LINK_DO_LATTES)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:COLOQUE_AQUI_O_EMAIL_PUBLICO)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=a-mand&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-mand&layout=compact&hide_border=true&theme=tokyonight" alt="Linguagens mais usadas" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" alt="" />
+</div>
+
+---
+
+<a name="Contato"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2200&pause=600000&color=3FB8AF&vCenter=true&width=640&height=50&lines=Contato" alt="Contato" />
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-lopes-6b0389241/)
+[![Lattes](https://img.shields.io/badge/Lattes-003366?style=for-the-badge)](http://lattes.cnpq.br/7039397366804214)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-3263-4395)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer&animation=twinkling" alt="" />
 
 </div>
