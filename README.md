@@ -1,4 +1,4 @@
-# Oi, eu sou a Amanda Lopes 👋
+# Oi, eu sou a Amanda Lopes 
 
 Estudante de **Engenharia de Telecomunicações na UFPA** (previsão: Jul/2027), pesquisadora no **LaCIS** (Laboratório de Cidades Inteligentes e Sustentáveis) e bolsista CNPq no **Manna Team**.
 
