@@ -1,12 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Amanda%20Lopes&fontColor=ffffff&fontSize=50&animation=twinkling&fontAlignY=38&desc=Engenharia%20de%20Telecomunica%C3%A7%C3%B5es%20%C2%B7%20IA%20%C2%B7%20Back-end&descAlignY=60&descSize=16" alt="Amanda Lopes" />
+# Oii, meu nome é Amanda Lopes
 
 <a href="https://github.com/a-mand">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=3FB8AF&center=true&vCenter=true&width=700&lines=Aprendizado+Federado+em+cidades+inteligentes;Sistemas+distribu%C3%ADdos+e+Machine+Learning;Back-end%3A+APIs%2C+bancos+de+dados+e+arquitetura;Python+%C2%B7+PHP%2FLaravel+%C2%B7+SQL" alt="Typing SVG" />
 </a>
 
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/25.gif" height="64" alt="Pikachu" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/133.gif" height="64" alt="Eevee" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/94.gif" height="64" alt="Gengar" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/4.gif" height="64" alt="Charmander" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/1.gif" height="64" alt="Bulbasaur" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/7.gif" height="64" alt="Squirtle" />
+
 </div>
+
+---
+
+<a name="Gradua%C3%A7%C3%A3o"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2200&pause=600000&color=3FB8AF&vCenter=true&width=640&height=50&lines=Gradua%C3%A7%C3%A3o" alt="Graduação" />
+
+Estudante de **Engenharia de Telecomunicações** na **Universidade Federal do Pará (UFPA)**, 9º período (2022 – 2027).
+
+Gosta de unir a base em redes e comunicação de dados à programação: pesquisa em **Inteligência Artificial e Aprendizado Federado**, experiência em **desenvolvimento Full Stack** e foco atual em **back-end**, com interesse em construir soluções escaláveis, seguras e orientadas por dados.
 
 ---
 
