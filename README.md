@@ -119,6 +119,7 @@ Foco atual em **desenvolvimento back-end** e na **pesquisa do LaCIS**:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-lopes-6b0389241/)
 [![Lattes](https://img.shields.io/badge/Lattes-003366?style=for-the-badge)](http://lattes.cnpq.br/7039397366804214)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-3263-4395)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-5B2A86?style=for-the-badge)](https://a-mand.github.io)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B2A86,100:2B1055&height=100&section=footer&animation=twinkling" alt="" />
 
